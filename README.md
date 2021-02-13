@@ -1,9 +1,13 @@
-#WN CAIFLS program
+# WN CAIFLS program
 The files used to serve CAIFLS.
+
 This project contains files used to Adobe Flash Player. CAIFLS is tool  for the early adolescents to enhance their Life Skills to the prevention of risky sexual behaviors. It was  proposed by Wanida Neranon and Ladaporn Thongsong.
-#Starting the CAIFLS
+
+# Starting the CAIFLS
 1.Download the repository to the server
+
 2.Basic features of computers that support CAIFLS: The computer used to run this program is a personal computer (Personal Computer: PC) General. It will use any CPU of Intel, AMD or VIA. It must be qualified on the hardware and software as follows; 
+          
           1. CPU speed is 1.5 GHz or higher.
           2. Memory is not less than 128 MB.
           3. The computer must have Adobe Flash Player installed.
